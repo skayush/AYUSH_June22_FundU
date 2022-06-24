@@ -1,7 +1,7 @@
 library(tidyverse)
 library(plotly)
 
-dataset = read.csv("C:/Users/DELL/Desktop/COVID19_line_list_data.csv")
+dataset = read.csv("June6 _June12/COVID19_line_list_data.csv")
 View(dataset)
 
 # Filtering out dataset for no. of males and females countrywise
