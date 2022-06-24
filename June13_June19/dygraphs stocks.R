@@ -5,7 +5,7 @@ library(tidyquant)
 library(lubridate)
 library(highcharter)
 
-dataset<- read.csv("C:/Users/DELL/Desktop/Stocks.csv")
+dataset<- read.csv("June13_June19/Stocks.csv")
 
 
 # We have to convert TIMESTAMP column to date format
