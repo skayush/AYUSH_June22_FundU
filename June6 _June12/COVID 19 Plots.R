@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggplot2)
 
 
-dataset = read.csv("June6 _June12/COVID19_line_list_data.csv")
+dataset = read.csv("https://raw.githubusercontent.com/skayush/AYUSH_June22_FundU/main/June6%20_June12/COVID19_line_list_data.csv")
 View(dataset)
 
 
