@@ -5,7 +5,7 @@ library(xts)
 library(tidyquant)
 library(lubridate)
 
-dataset<- read.csv("June20_June26/Stocks.csv")
+dataset<- read.csv("https://raw.githubusercontent.com/skayush/AYUSH_June22_FundU/main/June13_June19/Stocks.csv")
 
 
 #Plotting on small dataset
